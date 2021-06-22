@@ -1,6 +1,6 @@
 # .Net-BinarySearchTree
-
 Problem 2 (drzewo BST)
+
 (A) Zaimplementuj operacje (search, insert, delete, KLP) na drzewie BST.
 
 * Węzeł drzewa BST powinien zawierać: klucz (typu int), wskaźnik na lewe poddrzewo, wskaźnik na 
