@@ -1,0 +1,11 @@
+C:\Programy\Kod\ASD\PS0910\ASD0910\bin\Debug\netcoreapp3.1\ASD0910.exe
+C:\Programy\Kod\ASD\PS0910\ASD0910\bin\Debug\netcoreapp3.1\ASD0910.deps.json
+C:\Programy\Kod\ASD\PS0910\ASD0910\bin\Debug\netcoreapp3.1\ASD0910.runtimeconfig.json
+C:\Programy\Kod\ASD\PS0910\ASD0910\bin\Debug\netcoreapp3.1\ASD0910.runtimeconfig.dev.json
+C:\Programy\Kod\ASD\PS0910\ASD0910\bin\Debug\netcoreapp3.1\ASD0910.dll
+C:\Programy\Kod\ASD\PS0910\ASD0910\bin\Debug\netcoreapp3.1\ASD0910.pdb
+C:\Programy\Kod\ASD\PS0910\ASD0910\obj\Debug\netcoreapp3.1\ASD0910.csprojAssemblyReference.cache
+C:\Programy\Kod\ASD\PS0910\ASD0910\obj\Debug\netcoreapp3.1\ASD0910.AssemblyInfoInputs.cache
+C:\Programy\Kod\ASD\PS0910\ASD0910\obj\Debug\netcoreapp3.1\ASD0910.AssemblyInfo.cs
+C:\Programy\Kod\ASD\PS0910\ASD0910\obj\Debug\netcoreapp3.1\ASD0910.dll
+C:\Programy\Kod\ASD\PS0910\ASD0910\obj\Debug\netcoreapp3.1\ASD0910.pdb
